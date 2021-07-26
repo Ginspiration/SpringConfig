@@ -1,2 +1,0 @@
-1 this is local file modified
-2 this is remote modified
